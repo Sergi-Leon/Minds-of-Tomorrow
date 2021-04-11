@@ -1,0 +1,127 @@
+#header {
+    text-align: center;
+    background-image: url('../img/banner-2.jpg');
+    background-size: cover;
+    padding: 30vh 100px;
+    height: 100vh;
+    font-size: 65px;
+    background-position: right;
+}
+
+#apartado1 {
+    text-align: left;
+    height: 90vh;
+}
+
+* {
+    box-sizing: border-box;
+    /* font family */
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column2 {
+    width: 50%;
+    float: left;
+    padding: 0px 100px;
+}
+
+#apartado1 h1 {
+    font-size: 80px;
+}
+
+#apartado1 h3 {
+    font-size: 50px;
+}
+
+#apartado1 img {
+    width: 100%;
+}
+
+.column4 {
+    width: 25%;
+    float: left;
+}
+
+.column4 img {
+    width: 50%;
+    text-align: center;
+}
+
+#apartado2 {
+    text-align: center;
+    height: 100px;
+    font-size: 10px;
+    background-color: #25eda5;
+    padding-bottom: 500px;
+}
+
+#apartado2 h1 {
+    font-size: 50px;
+}
+
+#apartado3 h1 {
+    font-size: 80px;
+}
+
+#apartado3 h3 {
+    font-size: 50px;
+}
+
+#apartado3 img {
+    float: left;
+    height: 100%;
+    width: 100%;
+}
+
+.column4b {
+    float: left;
+    margin: 0;
+    width: 25%;
+}
+
+.column4b img {
+    height: 100%;
+    width: 100%;
+}
+
+#apartado5 h2 {
+    margin: 0;
+    font-size: 110px;
+    text-align: center;
+    height: 100%;
+}
+
+#apartado5 {
+    background-color: #48a4fc;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#apartado6 {
+    background-color: black;
+}
+
+.column4c {
+    float: left;
+    width: 25%;
+}
+
+.column2b {
+    float: left;
+    width: 50%;
+}
+
+#apartado6 p {
+    color: white;
+    font-size: 20px;
+}
